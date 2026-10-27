@@ -1,11 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="sportv" group-title="SPORTV",SporTV
+#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://www.fontedecanais.live/logos/canais/sportv.png" group-title="SPORTV",SporTV
 http://cldnew.com:80/live/TjZOYm/VGEAjP/83416.m3u8
-#EXTINF:-1 tvg-id="sportv" group-title="SPORTV",SporTV ²
+#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://www.fontedecanais.live/logos/canais/sportv.png" group-title="SPORTV",SporTV ²
 http://aponteaqui.lat:80/jajaita/123456/236284.m3u8
-#EXTINF:-1 tvg-id="sportv" group-title="SPORTV",SporTV ³
+#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://www.fontedecanais.live/logos/canais/sportv.png" group-title="SPORTV",SporTV ³
 http://cerejadoce.live:80/lucianobarbosaa/4723FWEMhwqk/72329.m3u8
-#EXTINF:-1 tvg-id="sportv" group-title="SPORTV",SporTV ⁴
-http://mylisthd.com:80/424934/1Qqpn7/72329.m3u8
-#EXTINF:-1 tvg-id="sportv" group-title="SPORTV",SportTV ⁵
-http://connecttv.club:80/700227/CR9D3h/72329.m3u8
+#EXTINF:-1 tvg-id="SporTV 2" tvg-logo="https://www.fontedecanais.live/logos/canais/sportv2.png" group-title="SPORTV",SporTV 2
+http://cldnew.com:80/live/TjZOYm/VGEAjP/83815.m3u8
+#EXTINF:-1 tvg-id="SporTV 2" tvg-logo="https://www.fontedecanais.live/logos/canais/sportv2.png" group-title="SPORTV",SporTV 2 ²
+http://aponteaqui.lat:80/jajaita/123456/236290.m3u8
+#EXTINF:-1 tvg-id="SporTV 2" tvg-logo="https://www.fontedecanais.live/logos/canais/sportv2.png" group-title="SPORTV",SporTV 2 ³
+http://cerejadoce.live:80/lucianobarbosaa/4723FWEMhwqk/72321.m3u8
+#EXTINF:-1 tvg-id="SporTV 3" tvg-logo="https://www.fontedecanais.live/logos/canais/sportv3.png" group-title="SPORTV",SporTV 3
+http://cldnew.com:80/live/TjZOYm/VGEAjP/83816.m3u8
+#EXTINF:-1 tvg-id="SporTV 3" tvg-logo="https://www.fontedecanais.live/logos/canais/sportv3.png" group-title="SPORTV",SporTV 3 ²
+http://aponteaqui.lat:80/jajaita/123456/236296.m3u8
+#EXTINF:-1 tvg-id="SporTV 3" tvg-logo="https://www.fontedecanais.live/logos/canais/sportv3.png" group-title="SPORTV",SporTV 3 ³
+http://cerejadoce.live:80/lucianobarbosaa/4723FWEMhwqk/72325.m3u8
+#EXTINF:-1 tvg-id="SporTV 3" tvg-logo="https://www.fontedecanais.live/logos/canais/sportv3.png" group-title="SPORTV",SporTV 3 ³
+http://cerejadoce.live:80/lucianobarbosaa/4723FWEMhwqk/72325.m3u8
