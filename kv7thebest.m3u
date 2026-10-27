@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="sportv" group-title="SPORTV",SporTV
+http://cldnew.com:80/live/TjZOYm/VGEAjP/83416.m3u8
+#EXTINF:-1 tvg-id="sportv" group-title="SPORTV",SporTV ²
+http://aponteaqui.lat:80/jajaita/123456/236284.m3u8
+#EXTINF:-1 tvg-id="sportv" group-title="SPORTV",SporTV ³
+http://cerejadoce.live:80/lucianobarbosaa/4723FWEMhwqk/72329.m3u8
+#EXTINF:-1 tvg-id="sportv" group-title="SPORTV",SporTV ⁴
+http://mylisthd.com:80/424934/1Qqpn7/72329.m3u8
+#EXTINF:-1 tvg-id="sportv" group-title="SPORTV",SportTV ⁵
+http://connecttv.club:80/700227/CR9D3h/72329.m3u8
