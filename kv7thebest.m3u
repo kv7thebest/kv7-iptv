@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://www.fontedecanais.live/logos/canais/sportv.png" group-title="SPORTV",SporTV
-http://cldnew.com:80/live/TjZOYm/VGEAjP/83416.m3u8
-#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://www.fontedecanais.live/logos/canais/sportv.png" group-title="SPORTV",SporTV ²
-http://aponteaqui.lat:80/jajaita/123456/236284.m3u8
-#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://www.fontedecanais.live/logos/canais/sportv.png" group-title="SPORTV",SporTV ³
-http://cerejadoce.live:80/lucianobarbosaa/4723FWEMhwqk/72329.m3u8
+#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://www.fontedecanais.live/logos/canais/sportv.png" group-title="SPORTV",SporTV 4K
+http://auratv.top:80/5524861747/2184522495/533220.ts
+#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://www.fontedecanais.live/logos/canais/sportv.png" group-title="SPORTV",SporTV FHD
+http://auratv.top:80/5524861747/2184522495/532097.ts
+#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://www.fontedecanais.live/logos/canais/sportv.png" group-title="SPORTV",SporTV HD
+http://auratv.top:80/5524861747/2184522495/532791.ts
 #EXTINF:-1 tvg-id="SporTV 2" tvg-logo="https://www.fontedecanais.live/logos/canais/sportv2.png" group-title="SPORTV",SporTV 2
 http://cldnew.com:80/live/TjZOYm/VGEAjP/83815.m3u8
 #EXTINF:-1 tvg-id="SporTV 2" tvg-logo="https://www.fontedecanais.live/logos/canais/sportv2.png" group-title="SPORTV",SporTV 2 ²
