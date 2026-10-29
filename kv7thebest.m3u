@@ -1,19 +1,39 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://www.fontedecanais.live/logos/canais/sportv.png" group-title="SPORTV",SporTV 4K
-http://auratv.top:80/5524861747/2184522495/533220.ts
+#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://www.fontedecanais.live/logos/canais/sportv.png" group-title="SPORTV",SporTV UHD
+http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB81aL7DJKX67endavJRQQJs/ts
 #EXTINF:-1 tvg-id="SporTV" tvg-logo="https://www.fontedecanais.live/logos/canais/sportv.png" group-title="SPORTV",SporTV FHD
-http://auratv.top:80/5524861747/2184522495/532097.ts
+http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB7TG4cUmtNF-ye3EREzc5R8/ts
 #EXTINF:-1 tvg-id="SporTV" tvg-logo="https://www.fontedecanais.live/logos/canais/sportv.png" group-title="SPORTV",SporTV HD
-http://auratv.top:80/5524861747/2184522495/532791.ts
-#EXTINF:-1 tvg-id="SporTV 2" tvg-logo="https://www.fontedecanais.live/logos/canais/sportv2.png" group-title="SPORTV",SporTV 2
-http://cldnew.com:80/live/TjZOYm/VGEAjP/83815.m3u8
-#EXTINF:-1 tvg-id="SporTV 2" tvg-logo="https://www.fontedecanais.live/logos/canais/sportv2.png" group-title="SPORTV",SporTV 2 ²
-http://aponteaqui.lat:80/jajaita/123456/236290.m3u8
-#EXTINF:-1 tvg-id="SporTV 2" tvg-logo="https://www.fontedecanais.live/logos/canais/sportv2.png" group-title="SPORTV",SporTV 2 ³
-http://cerejadoce.live:80/lucianobarbosaa/4723FWEMhwqk/72321.m3u8
-#EXTINF:-1 tvg-id="SporTV 3" tvg-logo="https://www.fontedecanais.live/logos/canais/sportv3.png" group-title="SPORTV",SporTV 3
-http://cldnew.com:80/live/TjZOYm/VGEAjP/83816.m3u8
-#EXTINF:-1 tvg-id="SporTV 3" tvg-logo="https://www.fontedecanais.live/logos/canais/sportv3.png" group-title="SPORTV",SporTV 3 ²
-http://aponteaqui.lat:80/jajaita/123456/236296.m3u8
-#EXTINF:-1 tvg-id="SporTV 3" tvg-logo="https://www.fontedecanais.live/logos/canais/sportv3.png" group-title="SPORTV",SporTV 3 ³
-http://cerejadoce.live:80/lucianobarbosaa/4723FWEMhwqk/72325.m3u8
+http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB31StpukAihFtYeYcEcYigA/ts
+#EXTINF:-1 tvg-id="SporTV 2" tvg-logo="https://www.fontedecanais.live/logos/canais/sportv2.png" group-title="SPORTV",SporTV 2 UHD
+http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB6c_MmmQ8kql5U2DuTxnuhs/ts
+#EXTINF:-1 tvg-id="SporTV 2" tvg-logo="https://www.fontedecanais.live/logos/canais/sportv2.png" group-title="SPORTV",SporTV 2 FHD
+http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB7R4QpuPa2IAnhowj82XlCE/ts
+#EXTINF:-1 tvg-id="SporTV 2" tvg-logo="https://www.fontedecanais.live/logos/canais/sportv2.png" group-title="SPORTV",SporTV 2 HD
+http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB-NHfU7dz5nmaIK-iVXhfn0/ts
+#EXTINF:-1 tvg-id="SporTV 3" tvg-logo="https://www.fontedecanais.bz/logos/canais/sportv3.png" group-title="SPORTV",SporTV 3 UHD
+http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPBxKraCcH-qFdkbn69am4yTs/ts
+#EXTINF:-1 tvg-id="SporTV 3" tvg-logo="https://www.fontedecanais.bz/logos/canais/sportv3.png" group-title="SPORTV",SporTV 3 FHD
+http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB3u67nfm9Ce_BbXvcN1B-zI/ts
+#EXTINF:-1 tvg-id="SporTV 3" tvg-logo="https://www.fontedecanais.bz/logos/canais/sportv3.png" group-title="SPORTV",SporTV 3 HD
+http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB_SSc7nxUUbYbmW4hc_5QcU/ts
+#EXTINF:-1 tvg-id="Prime Video 1" tvg-logo="https://www.fontedecanais.bz/logos/canais/primevideo.png" group-title="PRIME VIDEO",Prime Video 1
+http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB9lvebw6sH3lb_ceU7a0ylw/ts
+#EXTINF:-1 tvg-id="Prime Video 2" tvg-logo="https://www.fontedecanais.bz/logos/canais/primevideo.png" group-title="PRIME VIDEO",Prime Video 2
+http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPBwheXG9ekqAr_rxVxu6qxQI/ts
+#EXTINF:-1 tvg-id="Prime Video 3" tvg-logo="https://www.fontedecanais.bz/logos/canais/primevideo.png" group-title="PRIME VIDEO",Prime Video 3
+http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPBw4zlL15ngGZqgpIWk2jAg4/ts
+#EXTINF:-1 tvg-id="Prime Video 4" tvg-logo="https://www.fontedecanais.bz/logos/canais/primevideo.png" group-title="PRIME VIDEO",Prime Video 4
+http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB1IAIHytZHCXHfD34tSEoCk/ts
+#EXTINF:-1 tvg-id="Prime Video 5" tvg-logo="https://www.fontedecanais.bz/logos/canais/primevideo.png" group-title="PRIME VIDEO",Prime Video 5
+http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPBzo-NUvp84RCzVaE8p0mQVY/ts
+#EXTINF:-1 tvg-id="Prime Video 6" tvg-logo="https://www.fontedecanais.bz/logos/canais/primevideo.png" group-title="PRIME VIDEO",Prime Video 6
+http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB17ZVk6cp1i4ExONNxpa9w4/ts
+#EXTINF:-1 tvg-id="Prime Video 7" tvg-logo="https://www.fontedecanais.bz/logos/canais/primevideo.png" group-title="PRIME VIDEO",Prime Video 7
+http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB3p1ukpbtEUYp9v4mf-26qM/ts
+#EXTINF:-1 tvg-id="Prime Video 8" tvg-logo="https://www.fontedecanais.bz/logos/canais/primevideo.png" group-title="PRIME VIDEO",Prime Video 8
+http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB0QSVnSQslloZH1bzWex8h8/ts
+#EXTINF:-1 tvg-id="Prime Video 9" tvg-logo="https://www.fontedecanais.bz/logos/canais/primevideo.png" group-title="PRIME VIDEO",Prime Video 9
+http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB11bq4quVpGHnKzuJAnq9wQ/ts
+#EXTINF:-1 tvg-id="Prime Video 10" tvg-logo="https://www.fontedecanais.bz/logos/canais/primevideo.png" group-title="PRIME VIDEO",Prime Video 10
+http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB9HtscaQaBDJWwWLvqE0nCM/ts
