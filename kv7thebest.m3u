@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="GloboRJ.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/globo.png" group-title="CANAIS ABERTOS",Globo Rio de Janeiro FHD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPBzzwL6OYR4GcizYy_0nOQZ8/ts
 #EXTINF:-1 tvg-id="GloboRJ.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/globo.png" group-title="CANAIS ABERTOS",Globo Rio de Janeiro HD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB4-4KCTjA_g31XkKs8miWcQ/ts
@@ -292,7 +293,6 @@ http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB-G_EPlCwG53IAZjYp87v5E/ts
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB3BiC0BD3B9rDotTjo-ncI4/ts
 #EXTINF:-1 tvg-id="TelecineTouch.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/telecinetouch.png" group-title="TELECINE",Telecine Touch SD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPBy0REm5-ZcHVi9dE7SJYmWY/ts
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/globo.png" group-title="ABERTOS",Globo Rio de Janeiro FHD
 #EXTINF:-1 tvg-id="TNT.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/tnt.png" group-title="FILMES E SÉRIES",TNT FHD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB6v9l_vQgnhwMEY7I5kdnzI/ts
 #EXTINF:-1 tvg-id="TNT.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/tnt.png" group-title="FILMES E SÉRIES",TNT HD
