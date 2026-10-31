@@ -317,12 +317,6 @@ http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB8gpU0VWN2stHw-x4ZfnL38/ts
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB-MdoA-UYksDZt7Oi-d8Duk/ts
 #EXTINF:-1 tvg-id="TCM.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/tcm.png" group-title="FILMES E SÉRIES",TCM SD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPBxrfWc0SVvovdjY2_0O65ME/ts
-#EXTINF:-1 tvg-id="Multishow.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/multishow.png" group-title="VARIEDADES",Multishow FHD
-http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB_4T9567LGZRe7oEY72sS4I/ts
-#EXTINF:-1 tvg-id="Multishow.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/multishow.png" group-title="VARIEDADES",Multishow HD
-http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPBxnUzc4Ii3aFxs6xj_H-_N0/ts
-#EXTINF:-1 tvg-id="Multishow.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/multishow.png" group-title="VARIEDADES",Multishow SD
-http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPByz4RWRpXBxhwyNfbPvsLqU/ts
 #EXTINF:-1 tvg-id="HBO.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/hbo.png" group-title="HBO",HBO FHD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB5pPvZRMG_CmtMwUffYOTLk/ts
 #EXTINF:-1 tvg-id="HBO.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/hbo.png" group-title="HBO",HBO HD
@@ -407,4 +401,9 @@ http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB-G_EPlCwG53IAZjYp87v5E/ts
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB3BiC0BD3B9rDotTjo-ncI4/ts
 #EXTINF:-1 tvg-id="TelecineTouch.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/telecinetouch.png" group-title="TELECINE",Telecine Touch SD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPBy0REm5-ZcHVi9dE7SJYmWY/ts
-
+#EXTINF:-1 tvg-id="Multishow.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/multishow.png" group-title="VARIEDADES",Multishow FHD
+http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB_4T9567LGZRe7oEY72sS4I/ts
+#EXTINF:-1 tvg-id="Multishow.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/multishow.png" group-title="VARIEDADES",Multishow HD
+http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPBxnUzc4Ii3aFxs6xj_H-_N0/ts
+#EXTINF:-1 tvg-id="Multishow.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/multishow.png" group-title="VARIEDADES",Multishow SD
+http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPByz4RWRpXBxhwyNfbPvsLqU/ts
