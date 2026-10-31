@@ -1,73 +1,73 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Band Sports" tvg-logo="https://www.fontedecanais.bz/logos/canais/bandsports.png" group-title="ESPORTES",Band Sports FHD
+#EXTINF:-1 tvg-id="BandSports.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/bandsports.png" group-title="ESPORTES",BandSports FHD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB6JMf3uEaHHYgKeCBtS4QPg/ts
-#EXTINF:-1 tvg-id="Band Sports" tvg-logo="https://www.fontedecanais.bz/logos/canais/bandsports.png" group-title="ESPORTES",Band Sports HD
+#EXTINF:-1 tvg-id="BandSports.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/bandsports.png" group-title="ESPORTES",BandSports HD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB9byLY0uVlvG7JbalODrMH8/ts
-#EXTINF:-1 tvg-id="Band Sports" tvg-logo="https://www.fontedecanais.bz/logos/canais/bandsports.png" group-title="ESPORTES",Band Sports SD
+#EXTINF:-1 tvg-id="BandSports.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/bandsports.png" group-title="ESPORTES",BandSports SD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB9byLY0uVlvG7JbalODrMH8/ts
-#EXTINF:-1 tvg-id="Combate" tvg-logo="https://www.fontedecanais.bz/logos/canais/combate.png" group-title="ESPORTES",Combate FHD
+#EXTINF:-1 tvg-id="Combate.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/combate.png" group-title="ESPORTES",Combate FHD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB4-x_RnqjO13QJwXG-U1Ck8/ts
-#EXTINF:-1 tvg-id="Combate" tvg-logo="https://www.fontedecanais.bz/logos/canais/combate.png" group-title="ESPORTES",Combate HD
+#EXTINF:-1 tvg-id="Combate.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/combate.png" group-title="ESPORTES",Combate HD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB7e1Vn3kASkbUWqdX1VZNzw/ts
-#EXTINF:-1 tvg-id="Combate" tvg-logo="https://www.fontedecanais.bz/logos/canais/combate.png" group-title="ESPORTES",Combate SD
+#EXTINF:-1 tvg-id="Combate.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/combate.png" group-title="ESPORTES",Combate SD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPBxQkueYZVsh0-4moF9PMKVk/ts
-#EXTINF:-1 tvg-id="XSports" tvg-logo="https://www.fontedecanais.bz/logos/canais/xsports.png" group-title="ESPORTES",Xsports FHD
+#EXTINF:-1 tvg-id="XSports.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/xsports.png" group-title="ESPORTES",Xsports FHD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB5IUQKOQRdgBfacJ2J--7UM/ts
-#EXTINF:-1 tvg-id="XSports" tvg-logo="https://www.fontedecanais.bz/logos/canais/xsports.png" group-title="ESPORTES",Xsports HD
+#EXTINF:-1 tvg-id="XSports.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/xsports.png" group-title="ESPORTES",Xsports HD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB2KWuNdRPtEAUTXX5b_6aJs/ts
-#EXTINF:-1 tvg-id="XSports" tvg-logo="https://www.fontedecanais.bz/logos/canais/xsports.png" group-title="ESPORTES",Xsports SD
+#EXTINF:-1 tvg-id="XSports.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/xsports.png" group-title="ESPORTES",Xsports SD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB2KWuNdRPtEAUTXX5b_6aJs/ts
-#EXTINF:-1 tvg-id="SportyNet" tvg-logo="https://www.fontedecanais.bz/logos/canais/sportynet.png" group-title="ESPORTES",SportyNet
+#EXTINF:-1 tvg-id="SportyNet1.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/sportynet.png" group-title="ESPORTES",SportyNet
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB5HVNKhMFJVbM8y7nwIMozk/ts
-#EXTINF:-1 tvg-id="SportyNet 2" tvg-logo="https://www.fontedecanais.bz/logos/canais/sportynet2.png" group-title="ESPORTES",SportyNet 2
+#EXTINF:-1 tvg-id="SportyNet2.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/sportynet2.png" group-title="ESPORTES",SportyNet 2
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB12SQ9Cq3Pnfvr0RriWycPQ/ts
-#EXTINF:-1 tvg-id="SportyNet 3" tvg-logo="https://www.fontedecanais.bz/logos/canais/sportynet3.png" group-title="ESPORTES",SportyNet 3
+#EXTINF:-1 tvg-id="SportyNet3.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/sportynet3.png" group-title="ESPORTES",SportyNet 3
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB97AyQOPya6g5kenIcnZ1UE/ts
-#EXTINF:-1 tvg-id="N Sports 1" tvg-logo="https://www.fontedecanais.bz/logos/canais/nsports.png" group-title="ESPORTES",N Sports 1
+#EXTINF:-1 tvg-id="NSports1.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/nsports.png" group-title="ESPORTES",N Sports 1
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB2svuEzxx82NLwnZG1snrXc/ts
-#EXTINF:-1 tvg-id="N Sports 2" tvg-logo="https://www.fontedecanais.bz/logos/canais/nsports.png" group-title="ESPORTES",N Sports 2
+#EXTINF:-1 tvg-id="NSports2.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/nsports.png" group-title="ESPORTES",N Sports 2
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB20mNlX4XkSqEZz9h5J1luY/ts
-#EXTINF:-1 tvg-id="N Sports 3" tvg-logo="https://www.fontedecanais.bz/logos/canais/nsports.png" group-title="ESPORTES",N Sports 3
+#EXTINF:-1 tvg-id="NSports3.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/nsports.png" group-title="ESPORTES",N Sports 3
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB5h4W211U6bV71mfb1r9Vlg/ts
-#EXTINF:-1 tvg-id="DAZN 1" tvg-logo="https://www.fontedecanais.bz/logos/canais/dazn.png" group-title="ESPORTES",DAZN 1
+#EXTINF:-1 tvg-id="Dazn1.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/dazn.png" group-title="ESPORTES",DAZN 1
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB8IrGByqg7_lRM-Wt_aLJ6U/ts
-#EXTINF:-1 tvg-id="DAZN 2" tvg-logo="https://www.fontedecanais.bz/logos/canais/dazn.png" group-title="ESPORTES",DAZN 2
+#EXTINF:-1 tvg-id="Dazn2.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/dazn.png" group-title="ESPORTES",DAZN 2
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB-49eF0D_ZdEbrJqhfo0huo/ts
-#EXTINF:-1 tvg-id="DAZN 3" tvg-logo="https://www.fontedecanais.bz/logos/canais/dazn.png" group-title="ESPORTES",DAZN 3
+#EXTINF:-1 tvg-id="Dazn3.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/dazn.png" group-title="ESPORTES",DAZN 3
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPBwyT_COMm7f_EowZK5SdMvE/ts
-#EXTINF:-1 tvg-id="DAZN 4" tvg-logo="https://www.fontedecanais.bz/logos/canais/dazn.png" group-title="ESPORTES",DAZN 4
+#EXTINF:-1 tvg-id="Dazn4.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/dazn.png" group-title="ESPORTES",DAZN 4
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB14TOKBrER8o3IVI6048wN4/ts
 #EXTINF:-1 tvg-id="DAZN 5" tvg-logo="https://www.fontedecanais.bz/logos/canais/dazn.png" group-title="ESPORTES",DAZN 5
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB0VPMNRA8S0vHmvHl5oANsA/ts
-#EXTINF:-1 tvg-id="Woohoo" tvg-logo="https://www.fontedecanais.bz/logos/canais/woohoo.png" group-title="ESPORTES",Woohoo FHD
+#EXTINF:-1 tvg-id="WooHoo.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/woohoo.png" group-title="ESPORTES",Woohoo FHD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB9ycGsYF1RtXq5Rw5dhGWv0/ts
-#EXTINF:-1 tvg-id="Woohoo" tvg-logo="https://www.fontedecanais.bz/logos/canais/woohoo.png" group-title="ESPORTES",Woohoo HD
+#EXTINF:-1 tvg-id="WooHoo.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/woohoo.png" group-title="ESPORTES",Woohoo HD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB4RWKdXs71Qa2O0jMt_-WRA/ts
-#EXTINF:-1 tvg-id="Woohoo" tvg-logo="https://www.fontedecanais.bz/logos/canais/woohoo.png" group-title="ESPORTES",Woohoo SD
+#EXTINF:-1 tvg-id="WooHoo.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/woohoo.png" group-title="ESPORTES",Woohoo SD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB_3abV_w2nn3GxOlT6LXaBQ/ts
-#EXTINF:-1 tvg-id="Fish TV" tvg-logo="https://www.fontedecanais.bz/logos/canais/fishtv.png" group-title="ESPORTES",Fish TV FHD
+#EXTINF:-1 tvg-id="FishTV.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/fishtv.png" group-title="ESPORTES",Fish TV FHD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB9C8zURO5NhL-pmtdRW2FWE/ts
-#EXTINF:-1 tvg-id="Fish TV" tvg-logo="https://www.fontedecanais.bz/logos/canais/fishtv.png" group-title="ESPORTES",Fish TV HD
+#EXTINF:-1 tvg-id="FishTV.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/fishtv.png" group-title="ESPORTES",Fish TV HD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB5ji4wK4ITDch9T2QdYfsYg/ts
-#EXTINF:-1 tvg-id="Fish TV" tvg-logo="https://www.fontedecanais.bz/logos/canais/fishtv.png" group-title="ESPORTES",Fish TV SD
+#EXTINF:-1 tvg-id="FishTV.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/fishtv.png" group-title="ESPORTES",Fish TV SD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB0GPusfGmkq2wEs2qvQwxIY/ts
-#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://www.fontedecanais.live/logos/canais/sportv.png" group-title="SPORTV",SporTV FHD
+#EXTINF:-1 tvg-id="SporTV.br" tvg-logo="https://www.fontedecanais.live/logos/canais/sportv.png" group-title="SPORTV",SporTV FHD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB7TG4cUmtNF-ye3EREzc5R8/ts
-#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://www.fontedecanais.live/logos/canais/sportv.png" group-title="SPORTV",SporTV HD
+#EXTINF:-1 tvg-id="SporTV.br" tvg-logo="https://www.fontedecanais.live/logos/canais/sportv.png" group-title="SPORTV",SporTV HD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB31StpukAihFtYeYcEcYigA/ts
-#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://www.fontedecanais.live/logos/canais/sportv.png" group-title="SPORTV",SporTV SD
+#EXTINF:-1 tvg-id="SporTV.br" tvg-logo="https://www.fontedecanais.live/logos/canais/sportv.png" group-title="SPORTV",SporTV SD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB7VBryUkeyrP64z27Sp3dbM/ts
-#EXTINF:-1 tvg-id="SporTV 2" tvg-logo="https://www.fontedecanais.live/logos/canais/sportv2.png" group-title="SPORTV",SporTV 2 FHD
+#EXTINF:-1 tvg-id="SporTV2.br" tvg-logo="https://www.fontedecanais.live/logos/canais/sportv2.png" group-title="SPORTV",SporTV 2 FHD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB7R4QpuPa2IAnhowj82XlCE/ts
-#EXTINF:-1 tvg-id="SporTV 2" tvg-logo="https://www.fontedecanais.live/logos/canais/sportv2.png" group-title="SPORTV",SporTV 2 HD
+#EXTINF:-1 tvg-id="SporTV2.br" tvg-logo="https://www.fontedecanais.live/logos/canais/sportv2.png" group-title="SPORTV",SporTV 2 HD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB-NHfU7dz5nmaIK-iVXhfn0/ts
-#EXTINF:-1 tvg-id="SporTV 2" tvg-logo="https://www.fontedecanais.live/logos/canais/sportv2.png" group-title="SPORTV",SporTV 2 SD
+#EXTINF:-1 tvg-id="SporTV2.br" tvg-logo="https://www.fontedecanais.live/logos/canais/sportv2.png" group-title="SPORTV",SporTV 2 SD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB7VBryUkeyrP64z27Sp3dbM/ts
-#EXTINF:-1 tvg-id="SporTV 3" tvg-logo="https://www.fontedecanais.bz/logos/canais/sportv3.png" group-title="SPORTV",SporTV 3 FHD
+#EXTINF:-1 tvg-id="SporTV3.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/sportv3.png" group-title="SPORTV",SporTV 3 FHD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB3u67nfm9Ce_BbXvcN1B-zI/ts
-#EXTINF:-1 tvg-id="SporTV 3" tvg-logo="https://www.fontedecanais.bz/logos/canais/sportv3.png" group-title="SPORTV",SporTV 3 HD
+#EXTINF:-1 tvg-id="SporTV3.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/sportv3.png" group-title="SPORTV",SporTV 3 HD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB_SSc7nxUUbYbmW4hc_5QcU/ts
-#EXTINF:-1 tvg-id="SporTV 3" tvg-logo="https://www.fontedecanais.bz/logos/canais/sportv3.png" group-title="SPORTV",SporTV 3 SD
+#EXTINF:-1 tvg-id="SporTV3.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/sportv3.png" group-title="SPORTV",SporTV 3 SD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB4AemK8qkCWxTxUBucsJi7A/ts
 #EXTINF:-1 tvg-id="Prime Video 1" tvg-logo="https://www.fontedecanais.bz/logos/canais/primevideo.png" group-title="PRIME VIDEO",Prime Video 1
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB9lvebw6sH3lb_ceU7a0ylw/ts
@@ -89,255 +89,321 @@ http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB0QSVnSQslloZH1bzWex8h8/ts
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB11bq4quVpGHnKzuJAnq9wQ/ts
 #EXTINF:-1 tvg-id="Prime Video 10" tvg-logo="https://www.fontedecanais.bz/logos/canais/primevideo.png" group-title="PRIME VIDEO",Prime Video 10
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB9HtscaQaBDJWwWLvqE0nCM/ts
-#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://www.fontedecanais.bz/logos/canais/espn.png" group-title="ESPN",ESPN FHD
+#EXTINF:-1 tvg-id="ESPN.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/espn.png" group-title="ESPN",ESPN FHD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB84zOTDG7aKTTZ76fj27_Go/ts
-#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://www.fontedecanais.bz/logos/canais/espn.png" group-title="ESPN",ESPN HD
+#EXTINF:-1 tvg-id="ESPN.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/espn.png" group-title="ESPN",ESPN HD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPByxprV5Pz2e9I92IiOSwlu8/ts
-#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://www.fontedecanais.bz/logos/canais/espn.png" group-title="ESPN",ESPN SD
+#EXTINF:-1 tvg-id="ESPN.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/espn.png" group-title="ESPN",ESPN SD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB2gzq85L5jMaOiP_-w2TuLE/ts
-#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://www.fontedecanais.bz/logos/canais/espn2.png" group-title="ESPN",ESPN 2 FHD
+#EXTINF:-1 tvg-id="ESPN2.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/espn2.png" group-title="ESPN",ESPN 2 FHD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB8QGAHLjF77z-BEk5wxJsaM/ts
-#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://www.fontedecanais.bz/logos/canais/espn2.png" group-title="ESPN",ESPN 2 HD
+#EXTINF:-1 tvg-id="ESPN2.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/espn2.png" group-title="ESPN",ESPN 2 HD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB3hJVmOc0TMX04rWf8ZvuYM/ts
-#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://www.fontedecanais.bz/logos/canais/espn2.png" group-title="ESPN",ESPN 2 SD
+#EXTINF:-1 tvg-id="ESPN2.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/espn2.png" group-title="ESPN",ESPN 2 SD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB1ogytxWLXpO9iUCrxNiQog/ts
-#EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://www.fontedecanais.bz/logos/canais/espn3.png" group-title="ESPN",ESPN 3 FHD
+#EXTINF:-1 tvg-id="ESPN3.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/espn3.png" group-title="ESPN",ESPN 3 FHD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB5keRBp5iPIktm-pYqzwNZ8/ts
-#EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://www.fontedecanais.bz/logos/canais/espn3.png" group-title="ESPN",ESPN 3 HD
+#EXTINF:-1 tvg-id="ESPN3.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/espn3.png" group-title="ESPN",ESPN 3 HD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB3n_V_pRkgJkYVqOxc-vl3c/ts
-#EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://www.fontedecanais.bz/logos/canais/espn3.png" group-title="ESPN",ESPN 3 SD
+#EXTINF:-1 tvg-id="ESPN3.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/espn3.png" group-title="ESPN",ESPN 3 SD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB19H0E2VTu2SA3KQo8CLW58/ts
-#EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://www.fontedecanais.bz/logos/canais/espn4.png" group-title="ESPN",ESPN 4 FHD
+#EXTINF:-1 tvg-id="ESPN4.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/espn4.png" group-title="ESPN",ESPN 4 FHD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPBwKqW1-0jew6lMfHoScmRlY/ts
-#EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://www.fontedecanais.bz/logos/canais/espn4.png" group-title="ESPN",ESPN 4 HD
+#EXTINF:-1 tvg-id="ESPN4.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/espn4.png" group-title="ESPN",ESPN 4 HD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB5E_qX1tGe8zPYv6M-MbuEU/ts
-#EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://www.fontedecanais.bz/logos/canais/espn4.png" group-title="ESPN",ESPN 4 SD
+#EXTINF:-1 tvg-id="ESPN4.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/espn4.png" group-title="ESPN",ESPN 4 SD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB9I5IEh_DCjGeitNPrBje2w/ts
-#EXTINF:-1 tvg-id="ESPN 5" tvg-logo="https://www.fontedecanais.bz/logos/canais/espn5.png" group-title="ESPN",ESPN 5 FHD
+#EXTINF:-1 tvg-id="ESPN5.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/espn5.png" group-title="ESPN",ESPN 5 FHD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB7bAyM2xm8j0Exq_961xeag/ts
-#EXTINF:-1 tvg-id="ESPN 5" tvg-logo="https://www.fontedecanais.bz/logos/canais/espn5.png" group-title="ESPN",ESPN 5 HD
+#EXTINF:-1 tvg-id="ESPN5.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/espn5.png" group-title="ESPN",ESPN 5 HD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB_gNlxn0c8Rn6ZgFdTnvuHs/ts
-#EXTINF:-1 tvg-id="ESPN 5" tvg-logo="https://www.fontedecanais.bz/logos/canais/espn5.png" group-title="ESPN",ESPN 5 SD
+#EXTINF:-1 tvg-id="ESPN5.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/espn5.png" group-title="ESPN",ESPN 5 SD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB6KmFd8KX2a-MY-TZPxU5tI/ts
-#EXTINF:-1 tvg-id="ESPN 6" tvg-logo="https://www.fontedecanais.bz/logos/canais/espn6.png" group-title="ESPN",ESPN 6 FHD
+#EXTINF:-1 tvg-id="ESPN6.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/espn6.png" group-title="ESPN",ESPN 6 FHD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB5tfhUcHuieIv8T8_EgXbb4/ts
-#EXTINF:-1 tvg-id="ESPN 6" tvg-logo="https://www.fontedecanais.bz/logos/canais/espn6.png" group-title="ESPN",ESPN 6 HD
+#EXTINF:-1 tvg-id="ESPN6.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/espn6.png" group-title="ESPN",ESPN 6 HD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB5gc9e2iOfl6HJAYluNhXSE/ts
-#EXTINF:-1 tvg-id="ESPN 6" tvg-logo="https://www.fontedecanais.bz/logos/canais/espn6.png" group-title="ESPN",ESPN 6 SD
+#EXTINF:-1 tvg-id="ESPN6.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/espn6.png" group-title="ESPN",ESPN 6 SD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB3VJRCwM0XgvUgew1kNC1_Q/ts
-#EXTINF:-1 tvg-id="Multishow" tvg-logo="https://www.fontedecanais.bz/logos/canais/multishow.png" group-title="VARIEDADES",Multishow FHD
+#EXTINF:-1 tvg-id="Multishow.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/multishow.png" group-title="VARIEDADES",Multishow FHD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB_4T9567LGZRe7oEY72sS4I/ts
-#EXTINF:-1 tvg-id="Multishow" tvg-logo="https://www.fontedecanais.bz/logos/canais/multishow.png" group-title="VARIEDADES",Multishow HD
+#EXTINF:-1 tvg-id="Multishow.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/multishow.png" group-title="VARIEDADES",Multishow HD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPBxnUzc4Ii3aFxs6xj_H-_N0/ts
-#EXTINF:-1 tvg-id="Multishow" tvg-logo="https://www.fontedecanais.bz/logos/canais/multishow.png" group-title="VARIEDADES",Multishow SD
+#EXTINF:-1 tvg-id="Multishow.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/multishow.png" group-title="VARIEDADES",Multishow SD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPByz4RWRpXBxhwyNfbPvsLqU/ts
-#EXTINF:-1 tvg-id="HBO" tvg-logo="https://www.fontedecanais.bz/logos/canais/hbo.png" group-title="HBO",HBO FHD
+#EXTINF:-1 tvg-id="HBO.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/hbo.png" group-title="HBO",HBO FHD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB5pPvZRMG_CmtMwUffYOTLk/ts
-#EXTINF:-1 tvg-id="HBO" tvg-logo="https://www.fontedecanais.bz/logos/canais/hbo.png" group-title="HBO",HBO HD
+#EXTINF:-1 tvg-id="HBO.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/hbo.png" group-title="HBO",HBO HD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPByslngUgLqri1rVtdSYka8A/ts
-#EXTINF:-1 tvg-id="HBO" tvg-logo="https://www.fontedecanais.bz/logos/canais/hbo.png" group-title="HBO",HBO SD
+#EXTINF:-1 tvg-id="HBO.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/hbo.png" group-title="HBO",HBO SD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPBw6l2xkFbu6LqxcFOALTcj8/ts
-#EXTINF:-1 tvg-id="HBO 2" tvg-logo="https://www.fontedecanais.bz/logos/canais/hbo2.png" group-title="HBO",HBO 2 FHD
+#EXTINF:-1 tvg-id="HBO2.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/hbo2.png" group-title="HBO",HBO 2 FHD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB0DwQwuKJ4PTbrseYu06AjM/ts
-#EXTINF:-1 tvg-id="HBO 2" tvg-logo="https://www.fontedecanais.bz/logos/canais/hbo2.png" group-title="HBO",HBO 2 HD
+#EXTINF:-1 tvg-id="HBO2.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/hbo2.png" group-title="HBO",HBO 2 HD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB4u85s5UB5RY5802LHEH_Fw/ts
-#EXTINF:-1 tvg-id="HBO 2" tvg-logo="https://www.fontedecanais.bz/logos/canais/hbo2.png" group-title="HBO",HBO 2 SD
+#EXTINF:-1 tvg-id="HBO2.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/hbo2.png" group-title="HBO",HBO 2 SD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB-8revO78EkKq6-O83LDZts/ts
-#EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://www.fontedecanais.bz/logos/canais/hbofamily.png" group-title="HBO",HBO Family FHD
+#EXTINF:-1 tvg-id="HBOFamily.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/hbofamily.png" group-title="HBO",HBO Family FHD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPByoHoMNYVaXcyKvmY00Tkzk/ts
-#EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://www.fontedecanais.bz/logos/canais/hbofamily.png" group-title="HBO",HBO Family HD
+#EXTINF:-1 tvg-id="HBOFamily.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/hbofamily.png" group-title="HBO",HBO Family HD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB35_vvnnRaA31Oms35J-Pog/ts
-#EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://www.fontedecanais.bz/logos/canais/hbofamily.png" group-title="HBO",HBO Family SD
+#EXTINF:-1 tvg-id="HBOFamily.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/hbofamily.png" group-title="HBO",HBO Family SD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB53DfNVOjg_W04MguUrqaQw/ts
-#EXTINF:-1 tvg-id="HBO Mundi FHD" tvg-logo="https://www.fontedecanais.bz/logos/canais/hbomundi.png" group-title="HBO",HBO Mundi FHD
+#EXTINF:-1 tvg-id="HBOMundi.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/hbomundi.png" group-title="HBO",HBO Mundi FHD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB77arRoIHllQvL-MvNEDWsI/ts
-#EXTINF:-1 tvg-id="HBO Mundi" tvg-logo="https://www.fontedecanais.bz/logos/canais/hbomundi.png" group-title="HBO",HBO Mundi HD
+#EXTINF:-1 tvg-id="HBOMundi.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/hbomundi.png" group-title="HBO",HBO Mundi HD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB7_ROkgN1hV5VPZHAKDLU2A/ts
-#EXTINF:-1 tvg-id="HBO Mundi" tvg-logo="https://www.fontedecanais.bz/logos/canais/hbomundi.png" group-title="HBO",HBO Mundi SD
+#EXTINF:-1 tvg-id="HBOMundi.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/hbomundi.png" group-title="HBO",HBO Mundi SD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB_i36buqP4SwrzQJ6Ci2z20/ts
-#EXTINF:-1 tvg-id="HBO Plus+" tvg-logo="https://www.fontedecanais.bz/logos/canais/hboplus.png" group-title="HBO",HBO Plus+ FHD
+#EXTINF:-1 tvg-id="HBOPlus.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/hboplus.png" group-title="HBO",HBO Plus FHD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB-pFV7WPL8TwYXVfZQpMmY8/ts
-#EXTINF:-1 tvg-id="HBO Plus+" tvg-logo="https://www.fontedecanais.bz/logos/canais/hboplus.png" group-title="HBO",HBO Plus+ HD
+#EXTINF:-1 tvg-id="HBOPlus.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/hboplus.png" group-title="HBO",HBO Plus HD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB94OU7-WLQmkoLlVqw6UWww/ts
-#EXTINF:-1 tvg-id="HBO Plus+" tvg-logo="https://www.fontedecanais.bz/logos/canais/hboplus.png" group-title="HBO",HBO Plus+ SD
+#EXTINF:-1 tvg-id="HBOPlus.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/hboplus.png" group-title="HBO",HBO Plus SD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPBwz7hFuofIZa6ClhvaGQeM0/ts
-#EXTINF:-1 tvg-id="HBO Pop" tvg-logo="https://www.fontedecanais.bz/logos/canais/hbopop.png" group-title="HBO",HBO Pop FHD
+#EXTINF:-1 tvg-id="HBOPop.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/hbopop.png" group-title="HBO",HBO Pop FHD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB_fRNGPeFfJDBtb1otUdJwg/tshttp://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB_fRNGPeFfJDBtb1otUdJwg/ts
-#EXTINF:-1 tvg-id="HBO Pop" tvg-logo="https://www.fontedecanais.bz/logos/canais/hbopop.png" group-title="HBO",HBO Pop HD
+#EXTINF:-1 tvg-id="HBOPop.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/hbopop.png" group-title="HBO",HBO Pop HD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPBy-Ywoo1ZQ9hH1x2RFneL6s/ts
-#EXTINF:-1 tvg-id="HBO Pop" tvg-logo="https://www.fontedecanais.bz/logos/canais/hbopop.png" group-title="HBO",HBO Pop SD
+#EXTINF:-1 tvg-id="HBOPop.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/hbopop.png" group-title="HBO",HBO Pop SD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB2N8o-vpMYlbES-Znk5dClE/ts
-#EXTINF:-1 tvg-id="HBO Signature" tvg-logo="https://www.fontedecanais.bz/logos/canais/hbosignature.png" group-title="HBO",HBO Signature FHD
+#EXTINF:-1 tvg-id="HBOSignature.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/hbosignature.png" group-title="HBO",HBO Signature FHD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB8S6bVgPhsnz4wys7YUg82I/ts
-#EXTINF:-1 tvg-id="HBO Signature" tvg-logo="https://www.fontedecanais.bz/logos/canais/hbosignature.png" group-title="HBO",HBO Signature HD
+#EXTINF:-1 tvg-id="HBOSignature.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/hbosignature.png" group-title="HBO",HBO Signature HD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB2z1Ecco4EjlUghplpsern8/ts
-#EXTINF:-1 tvg-id="HBO Signature" tvg-logo="https://www.fontedecanais.bz/logos/canais/hbosignature.png" group-title="HBO",HBO Signature SD
+#EXTINF:-1 tvg-id="HBOSignature.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/hbosignature.png" group-title="HBO",HBO Signature SD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPBzIgMm1r5r9FmhjUC0xAX2k/ts
-#EXTINF:-1 tvg-id="HBO Xtreme" tvg-logo="https://www.fontedecanais.bz/logos/canais/hboxtreme.png" group-title="HBO",HBO Xtreme FHD
+#EXTINF:-1 tvg-id="HBOXtreme.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/hboxtreme.png" group-title="HBO",HBO Xtreme FHD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB31YfR6zgQJyRRL6j5sCWnA/ts
-#EXTINF:-1 tvg-id="HBO Xtreme" tvg-logo="https://www.fontedecanais.bz/logos/canais/hboxtreme.png" group-title="HBO",HBO Xtreme HD
+#EXTINF:-1 tvg-id="HBOXtreme.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/hboxtreme.png" group-title="HBO",HBO Xtreme HD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB7LQsMgT8hsM7y4gpG7DUYM/ts
-#EXTINF:-1 tvg-id="HBO Xtreme" tvg-logo="https://www.fontedecanais.bz/logos/canais/hboxtreme.png" group-title="HBO",HBO Xtreme SD
+#EXTINF:-1 tvg-id="HBOXtreme.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/hboxtreme.png" group-title="HBO",HBO Xtreme SD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB7LQsMgT8hsM7y4gpG7DUYM/ts
-#EXTINF:-1 tvg-id="Telecine Action" tvg-logo="https://www.fontedecanais.bz/logos/canais/telecineaction.png" group-title="TELECINE",Telecine Action FHD
+#EXTINF:-1 tvg-id="TelecineAction.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/telecineaction.png" group-title="TELECINE",Telecine Action FHD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPBzU1TiX2czXXKYkv329xyFI/ts
-#EXTINF:-1 tvg-id="Telecine Action" tvg-logo="https://www.fontedecanais.bz/logos/canais/telecineaction.png" group-title="TELECINE",Telecine Action HD
+#EXTINF:-1 tvg-id="TelecineAction.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/telecineaction.png" group-title="TELECINE",Telecine Action HD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPBxm-SL3gP1TrHANA6PdQAoE/ts
-#EXTINF:-1 tvg-id="Telecine Action" tvg-logo="https://www.fontedecanais.bz/logos/canais/telecineaction.png" group-title="TELECINE",Telecine Action SD
+#EXTINF:-1 tvg-id="TelecineAction.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/telecineaction.png" group-title="TELECINE",Telecine Action SD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB5lbfWsfuK2_Ayk4PwtwCm4/ts
-#EXTINF:-1 tvg-id="Telecine Cult" tvg-logo="https://www.fontedecanais.bz/logos/canais/telecinecult.png" group-title="TELECINE",Telecine Cult FHD
+#EXTINF:-1 tvg-id="TelecineCult.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/telecinecult.png" group-title="TELECINE",Telecine Cult FHD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB3-Er5hN2CUrhesrlVsWkSY/ts
-#EXTINF:-1 tvg-id="Telecine Cult" tvg-logo="https://www.fontedecanais.bz/logos/canais/telecinecult.png" group-title="TELECINE",Telecine Cult HD
+#EXTINF:-1 tvg-id="TelecineCult.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/telecinecult.png" group-title="TELECINE",Telecine Cult HD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB0rGv8vPQtYNr6wbfm2QHGY/ts
-#EXTINF:-1 tvg-id="Telecine Cult" tvg-logo="https://www.fontedecanais.bz/logos/canais/telecinecult.png" group-title="TELECINE",Telecine Cult SD
+#EXTINF:-1 tvg-id="TelecineCult.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/telecinecult.png" group-title="TELECINE",Telecine Cult SD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB9Rc9Ogh2B84QP9Z-Lhsqtc/ts
-#EXTINF:-1 tvg-id="Telecine Fun" tvg-logo="https://www.fontedecanais.bz/logos/canais/telecinefun.png" group-title="TELECINE",Telecine Fun FHD
+#EXTINF:-1 tvg-id="TelecineFun.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/telecinefun.png" group-title="TELECINE",Telecine Fun FHD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB1xtojnG_sQvSbTTG5Ak5NE/ts
-#EXTINF:-1 tvg-id="Telecine Fun" tvg-logo="https://www.fontedecanais.bz/logos/canais/telecinefun.png" group-title="TELECINE",Telecine Fun HD
+#EXTINF:-1 tvg-id="TelecineFun.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/telecinefun.png" group-title="TELECINE",Telecine Fun HD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB2_XIum6YvWkj3fRrNekJa8/ts
-#EXTINF:-1 tvg-id="Telecine Fun" tvg-logo="https://www.fontedecanais.bz/logos/canais/telecinefun.png" group-title="TELECINE",Telecine Fun SD
+#EXTINF:-1 tvg-id="TelecineFun.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/telecinefun.png" group-title="TELECINE",Telecine Fun SD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB8njyiwn8VjE6Gqf3tSouYc/ts
-#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-logo="https://www.fontedecanais.bz/logos/canais/telecinepipoca.png" group-title="TELECINE",Telecine Pipoca FHD
+#EXTINF:-1 tvg-id="TelecinePipoca.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/telecinepipoca.png" group-title="TELECINE",Telecine Pipoca FHD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPByx6rWSNOIefxFxStA4q8X8/ts
-#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-logo="https://www.fontedecanais.bz/logos/canais/telecinepipoca.png" group-title="TELECINE",Telecine Pipoca HD
+#EXTINF:-1 tvg-id="TelecinePipoca.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/telecinepipoca.png" group-title="TELECINE",Telecine Pipoca HD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB5YZB467N4jDB4uc-PyRzg0/ts
-#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-logo="https://www.fontedecanais.bz/logos/canais/telecinepipoca.png" group-title="TELECINE",Telecine Pipoca SD
+#EXTINF:-1 tvg-id="TelecinePipoca.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/telecinepipoca.png" group-title="TELECINE",Telecine Pipoca SD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB8obAjxQKCP6g5BaiZtcino/ts
-#EXTINF:-1 tvg-id="Telecine Premium" tvg-logo="https://www.fontedecanais.bz/logos/canais/telecinepremium.png" group-title="TELECINE",Telecine Premium FHD
+#EXTINF:-1 tvg-id="TelecinePremium.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/telecinepremium.png" group-title="TELECINE",Telecine Premium FHD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPBwEKoF_Pmqf8ME31q6GcvhE/ts
-#EXTINF:-1 tvg-id="Telecine Premium" tvg-logo="https://www.fontedecanais.bz/logos/canais/telecinepremium.png" group-title="TELECINE",Telecine Premium HD
+#EXTINF:-1 tvg-id="TelecinePremium.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/telecinepremium.png" group-title="TELECINE",Telecine Premium HD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB2ZfakGAAlLE0fc3ZKdBnOA/ts
-#EXTINF:-1 tvg-id="Telecine Premium" tvg-logo="https://www.fontedecanais.bz/logos/canais/telecinepremium.png" group-title="TELECINE",Telecine Premium SD
+#EXTINF:-1 tvg-id="TelecinePremium.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/telecinepremium.png" group-title="TELECINE",Telecine Premium SD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB5KSg7KkKgI6ATqzAgbSGnc/ts
-#EXTINF:-1 tvg-id="Telecine Touch" tvg-logo="https://www.fontedecanais.bz/logos/canais/telecinetouch.png" group-title="TELECINE",Telecine Touch FHD
+#EXTINF:-1 tvg-id="TelecineTouch.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/telecinetouch.png" group-title="TELECINE",Telecine Touch FHD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB-G_EPlCwG53IAZjYp87v5E/ts
-#EXTINF:-1 tvg-id="Telecine Touch" tvg-logo="https://www.fontedecanais.bz/logos/canais/telecinetouch.png" group-title="TELECINE",Telecine Touch HD 
+#EXTINF:-1 tvg-id="TelecineTouch.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/telecinetouch.png" group-title="TELECINE",Telecine Touch HD 
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB3BiC0BD3B9rDotTjo-ncI4/ts
-#EXTINF:-1 tvg-id="Telecine Touch" tvg-logo="https://www.fontedecanais.bz/logos/canais/telecinetouch.png" group-title="TELECINE",Telecine Touch SD
+#EXTINF:-1 tvg-id="TelecineTouch.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/telecinetouch.png" group-title="TELECINE",Telecine Touch SD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPBy0REm5-ZcHVi9dE7SJYmWY/ts
-#EXTINF:-1 tvg-id="Premiere Clubes" tvg-logo="https://i.postimg.cc/htvgKJRH/premiere-logo.png" group-title="PREMIERE",Premiere 1 FHD
+#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-logo="https://i.postimg.cc/htvgKJRH/premiere-logo.png" group-title="PREMIERE",Premiere 1 FHD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPBxZzBKjL1UFwlrePcBr6dK4/ts
-#EXTINF:-1 tvg-id="Premiere Clubes" tvg-logo="https://i.postimg.cc/htvgKJRH/premiere-logo.png" group-title="PREMIERE",Premiere 1 HD
+#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-logo="https://i.postimg.cc/htvgKJRH/premiere-logo.png" group-title="PREMIERE",Premiere 1 HD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPBwpFj454LwJh3QNF31YCWEM/ts
-#EXTINF:-1 tvg-id="Premiere Clubes" tvg-logo="https://i.postimg.cc/htvgKJRH/premiere-logo.png" group-title="PREMIERE",Premiere 1 SD
+#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-logo="https://i.postimg.cc/htvgKJRH/premiere-logo.png" group-title="PREMIERE",Premiere 1 SD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB4cInZ5QoHe0Jb51lDUCV_k/ts
-#EXTINF:-1 tvg-id="Premiere 2" tvg-logo="https://i.postimg.cc/htvgKJRH/premiere-logo.png" group-title="PREMIERE",Premiere 2 FHD
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-logo="https://i.postimg.cc/htvgKJRH/premiere-logo.png" group-title="PREMIERE",Premiere 2 FHD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPByM0uHMhZnJwbpOFEbsuKwM/ts
-#EXTINF:-1 tvg-id="Premiere 2" tvg-logo="https://i.postimg.cc/htvgKJRH/premiere-logo.png" group-title="PREMIERE",Premiere 2 HD
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-logo="https://i.postimg.cc/htvgKJRH/premiere-logo.png" group-title="PREMIERE",Premiere 2 HD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPBwBV9BOgo_ppvgjtLvPtUCc/ts
-#EXTINF:-1 tvg-id="Premiere 2" tvg-logo="https://i.postimg.cc/htvgKJRH/premiere-logo.png" group-title="PREMIERE",Premiere 2 SD
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-logo="https://i.postimg.cc/htvgKJRH/premiere-logo.png" group-title="PREMIERE",Premiere 2 SD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB45Odf-A-fOYxQwN4SlO8CI/ts
-#EXTINF:-1 tvg-id="Premiere 3" tvg-logo="https://i.postimg.cc/htvgKJRH/premiere-logo.png" group-title="PREMIERE",Premiere 3 FHD
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-logo="https://i.postimg.cc/htvgKJRH/premiere-logo.png" group-title="PREMIERE",Premiere 3 FHD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB2HP4VVvy60vEFTigeuXBms/ts
-#EXTINF:-1 tvg-id="Premiere 3" tvg-logo="https://i.postimg.cc/htvgKJRH/premiere-logo.png" group-title="PREMIERE",Premiere 3 HD
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-logo="https://i.postimg.cc/htvgKJRH/premiere-logo.png" group-title="PREMIERE",Premiere 3 HD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPBx-9h57L-hq2BDWs5KstINI/ts
-#EXTINF:-1 tvg-id="Premiere 3" tvg-logo="https://i.postimg.cc/htvgKJRH/premiere-logo.png" group-title="PREMIERE",Premiere 3 SD
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-logo="https://i.postimg.cc/htvgKJRH/premiere-logo.png" group-title="PREMIERE",Premiere 3 SD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB7C9eB3Av87gHCyyJRD8ppk/ts
-#EXTINF:-1 tvg-id="Premiere 4" tvg-logo="https://i.postimg.cc/htvgKJRH/premiere-logo.png" group-title="PREMIERE",Premiere 4 FHD
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-logo="https://i.postimg.cc/htvgKJRH/premiere-logo.png" group-title="PREMIERE",Premiere 4 FHD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPByNC_PLnp01VxH5PNi0YGqk/ts
-#EXTINF:-1 tvg-id="Premiere 4" tvg-logo="https://i.postimg.cc/htvgKJRH/premiere-logo.png" group-title="PREMIERE",Premiere 4 HD
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-logo="https://i.postimg.cc/htvgKJRH/premiere-logo.png" group-title="PREMIERE",Premiere 4 HD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB9ippZZAoufbu32LEuCqD8E/ts
-#EXTINF:-1 tvg-id="Premiere 4" tvg-logo="https://i.postimg.cc/htvgKJRH/premiere-logo.png" group-title="PREMIERE",Premiere 4 SD
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-logo="https://i.postimg.cc/htvgKJRH/premiere-logo.png" group-title="PREMIERE",Premiere 4 SD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB0urgT9YUQireyfsx8grtes/ts
-#EXTINF:-1 tvg-id="Premiere 5" tvg-logo="https://i.postimg.cc/htvgKJRH/premiere-logo.png" group-title="PREMIERE",Premiere 5 FHD
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-logo="https://i.postimg.cc/htvgKJRH/premiere-logo.png" group-title="PREMIERE",Premiere 5 FHD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB0hlNgAbbzrX6ROvyTSaZCE/ts
-#EXTINF:-1 tvg-id="Premiere 5" tvg-logo="https://i.postimg.cc/htvgKJRH/premiere-logo.png" group-title="PREMIERE",Premiere 5 HD
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-logo="https://i.postimg.cc/htvgKJRH/premiere-logo.png" group-title="PREMIERE",Premiere 5 HD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPBy72Mpj2Xe6KGDjl7plT3p4/ts
-#EXTINF:-1 tvg-id="Premiere 5" tvg-logo="https://i.postimg.cc/htvgKJRH/premiere-logo.png" group-title="PREMIERE",Premiere 5 SD
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-logo="https://i.postimg.cc/htvgKJRH/premiere-logo.png" group-title="PREMIERE",Premiere 5 SD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB0f7BQYDIzMvfqmKJoN-1w8/ts
-#EXTINF:-1 tvg-id="Premiere 6" tvg-logo="https://i.postimg.cc/htvgKJRH/premiere-logo.png" group-title="PREMIERE",Premiere 6 FHD
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-logo="https://i.postimg.cc/htvgKJRH/premiere-logo.png" group-title="PREMIERE",Premiere 6 FHD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB6VCYLLn6IVDbIgbh88sQBM/ts
-#EXTINF:-1 tvg-id="Premiere 6" tvg-logo="https://i.postimg.cc/htvgKJRH/premiere-logo.png" group-title="PREMIERE",Premiere 6 HD
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-logo="https://i.postimg.cc/htvgKJRH/premiere-logo.png" group-title="PREMIERE",Premiere 6 HD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPBwGiVvTw-oqeU9WXQsux4Dk/ts
-#EXTINF:-1 tvg-id="Premiere 6" tvg-logo="https://i.postimg.cc/htvgKJRH/premiere-logo.png" group-title="PREMIERE",Premiere 6 SD
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-logo="https://i.postimg.cc/htvgKJRH/premiere-logo.png" group-title="PREMIERE",Premiere 6 SD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB0SjOS7xkir1COktV81Mtzs/ts
-#EXTINF:-1 tvg-id="Premiere 7" tvg-logo="https://i.postimg.cc/htvgKJRH/premiere-logo.png" group-title="PREMIERE",Premiere 7 FHD
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-logo="https://i.postimg.cc/htvgKJRH/premiere-logo.png" group-title="PREMIERE",Premiere 7 FHD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPBwxXaInkKwJRphENe9HBqfw/ts
-#EXTINF:-1 tvg-id="Premiere 7" tvg-logo="https://i.postimg.cc/htvgKJRH/premiere-logo.png" group-title="PREMIERE",Premiere 7 HD
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-logo="https://i.postimg.cc/htvgKJRH/premiere-logo.png" group-title="PREMIERE",Premiere 7 HD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB-7MWgLf-ZTVAqyzKfWgq2s/ts
-#EXTINF:-1 tvg-id="Premiere 7" tvg-logo="https://i.postimg.cc/htvgKJRH/premiere-logo.png" group-title="PREMIERE",Premiere 7 SD
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-logo="https://i.postimg.cc/htvgKJRH/premiere-logo.png" group-title="PREMIERE",Premiere 7 SD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB3hmPb3sr2qDbu7CRruH7ME/ts
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-logo="https://www.fontedecanais.bz/logos/canais/globo.png" group-title="ABERTOS",Globo Rio de Janeiro FHD
+#EXTINF:-1 tvg-id="GloboRJ.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/globo.png" group-title="ABERTOS",Globo Rio de Janeiro FHD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPBzzwL6OYR4GcizYy_0nOQZ8/ts
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-logo="https://www.fontedecanais.bz/logos/canais/globo.png" group-title="ABERTOS",Globo Rio de Janeiro HD
+#EXTINF:-1 tvg-id="GloboRJ.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/globo.png" group-title="ABERTOS",Globo Rio de Janeiro HD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB4-4KCTjA_g31XkKs8miWcQ/ts
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-logo="https://www.fontedecanais.bz/logos/canais/globo.png" group-title="ABERTOS",Globo Rio de Janeiro SD
+#EXTINF:-1 tvg-id="GloboRJ.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/globo.png" group-title="ABERTOS",Globo Rio de Janeiro SD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB0LuYgJlnCgPhCBA6kxRpJk/ts
-#EXTINF:-1 tvg-id="SBT São Paulo FHD" tvg-logo="https://www.fontedecanais.bz/logos/canais/sbt.png" group-title="ABERTOS",SBT São Paulo FHD
+#EXTINF:-1 tvg-id="SBTSP.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/sbt.png" group-title="ABERTOS",SBT São Paulo FHD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB1jMSu2E8JwgjlU2I9aZ_RQ/ts
-#EXTINF:-1 tvg-id="SBT São Paulo FHD" tvg-logo="https://www.fontedecanais.bz/logos/canais/sbt.png" group-title="ABERTOS",SBT São Paulo HD
+#EXTINF:-1 tvg-id="SBTSP.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/sbt.png" group-title="ABERTOS",SBT São Paulo HD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPBykXq28LDhNb1gNTy02WjNs/ts
-#EXTINF:-1 tvg-id="SBT São Paulo FHD" tvg-logo="https://www.fontedecanais.bz/logos/canais/sbt.png" group-title="ABERTOS",SBT São Paulo SD
+#EXTINF:-1 tvg-id="SBTSP.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/sbt.png" group-title="ABERTOS",SBT São Paulo SD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB-We70dsBN1iCARLutw24Hk/ts
-#EXTINF:-1 tvg-id="Record São Paulo" tvg-logo="https://www.fontedecanais.bz/logos/canais/record.png" group-title="ABERTOS",Record São Paulo FHD
+#EXTINF:-1 tvg-id="RecordTVSP.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/record.png" group-title="ABERTOS",Record São Paulo FHD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB2BvGucD3NxDFoQ8HaQHBZg/ts
-#EXTINF:-1 tvg-id="Record São Paulo" tvg-logo="https://www.fontedecanais.bz/logos/canais/record.png" group-title="ABERTOS",Record São Paulo HD
+#EXTINF:-1 tvg-id="RecordTVSP.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/record.png" group-title="ABERTOS",Record São Paulo HD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPBx5JxVjokSdgqSQETwyHQ2U/ts
-#EXTINF:-1 tvg-id="Record São Paulo" tvg-logo="https://www.fontedecanais.bz/logos/canais/record.png" group-title="ABERTOS",Record São Paulo SD
+#EXTINF:-1 tvg-id="RecordTVSP.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/record.png" group-title="ABERTOS",Record São Paulo SD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB4IxH2RACafj3tnMTKTKwjQ/ts
-#EXTINF:-1 tvg-id="Band São Paulo" tvg-logo="https://www.fontedecanais.bz/logos/canais/band.png" group-title="ABERTOS",Band São Paulo FHD
+#EXTINF:-1 tvg-id="BandSP.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/band.png" group-title="ABERTOS",Band São Paulo FHD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB6zX15QQS5-nISelhyHFdjo/ts
-#EXTINF:-1 tvg-id="Band São Paulo" tvg-logo="https://www.fontedecanais.bz/logos/canais/band.png" group-title="ABERTOS",Band São Paulo HD
+#EXTINF:-1 tvg-id="BandSP.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/band.png" group-title="ABERTOS",Band São Paulo HD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB7di2MK5eK6RVOA8kMXLnyA/ts
-#EXTINF:-1 tvg-id="Band São Paulo" tvg-logo="https://www.fontedecanais.bz/logos/canais/band.png" group-title="ABERTOS",Band São Paulo SD
+#EXTINF:-1 tvg-id="BandSP.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/band.png" group-title="ABERTOS",Band São Paulo SD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB9Z2I0O5O7ms9BRxwnN9eE8/ts
-#EXTINF:-1 tvg-id="RedeTV! São Paulo" tvg-logo="https://www.fontedecanais.bz/logos/canais/redetv.png" group-title="ABERTOS",RedeTV! São Paulo FHD
+#EXTINF:-1 tvg-id="RedeTVSP.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/redetv.png" group-title="ABERTOS",RedeTV! São Paulo FHD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB3yzVp_jYpuzj3Ka2nCXOFY/ts
-#EXTINF:-1 tvg-id="RedeTV! São Paulo" tvg-logo="https://www.fontedecanais.bz/logos/canais/redetv.png" group-title="ABERTOS",RedeTV! São Paulo HD
+#EXTINF:-1 tvg-id="RedeTVSP.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/redetv.png" group-title="ABERTOS",RedeTV! São Paulo HD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB4OecM2pT-k1apSPzvhzCW0/ts
-#EXTINF:-1 tvg-id="RedeTV! São Paulo" tvg-logo="https://www.fontedecanais.bz/logos/canais/redetv.png" group-title="ABERTOS",RedeTV! São Paulo SD
+#EXTINF:-1 tvg-id="RedeTVSP.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/redetv.png" group-title="ABERTOS",RedeTV! São Paulo SD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPBz_akg3VpEC6L7cmg76Fg5k/ts
-#EXTINF:-1 tvg-id="TV Cultura São Paulo" tvg-logo="https://www.fontedecanais.bz/logos/canais/cultura.png" group-title="ABERTOS",TV Cultura São Paulo FHD
+#EXTINF:-1 tvg-id="Cultura.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/cultura.png" group-title="ABERTOS",TV Cultura São Paulo FHD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPBxcqx1FWRESfJEyGwlUbbu4/ts
-#EXTINF:-1 tvg-id="TV Cultura São Paulo" tvg-logo="https://www.fontedecanais.bz/logos/canais/cultura.png" group-title="ABERTOS",TV Cultura São Paulo HD
+#EXTINF:-1 tvg-id="Cultura.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/cultura.png" group-title="ABERTOS",TV Cultura São Paulo HD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB9H_yQ9uaF0goG4jRySNH7Q/ts
-#EXTINF:-1 tvg-id="TV Cultura São Paulo" tvg-logo="https://www.fontedecanais.bz/logos/canais/cultura.png" group-title="ABERTOS",TV Cultura São Paulo SD
+#EXTINF:-1 tvg-id="Cultura.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/cultura.png" group-title="ABERTOS",TV Cultura São Paulo SD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB9H_yQ9uaF0goG4jRySNH7Q/ts
-#EXTINF:-1 tvg-id="TNT" tvg-logo="https://www.fontedecanais.bz/logos/canais/tnt.png" group-title="FILMES E SÉRIES",TNT FHD
+#EXTINF:-1 tvg-id="TNT.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/tnt.png" group-title="FILMES E SÉRIES",TNT FHD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB6v9l_vQgnhwMEY7I5kdnzI/ts
-#EXTINF:-1 tvg-id="TNT" tvg-logo="https://www.fontedecanais.bz/logos/canais/tnt.png" group-title="FILMES E SÉRIES",TNT HD
+#EXTINF:-1 tvg-id="TNT.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/tnt.png" group-title="FILMES E SÉRIES",TNT HD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB0QoNzNhbijN_2NxXiJ8S7s/ts
-#EXTINF:-1 tvg-id="TNT" tvg-logo="https://www.fontedecanais.bz/logos/canais/tnt.png" group-title="FILMES E SÉRIES",TNT SD
+#EXTINF:-1 tvg-id="TNT.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/tnt.png" group-title="FILMES E SÉRIES",TNT SD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPByaSq5Vl30yGaxJDcsYs_ME/ts
-#EXTINF:-1 tvg-id="TNT Novelas" tvg-logo="https://www.fontedecanais.bz/logos/canais/tntnovelas.png" group-title="FILMES E SÉRIES",TNT Novelas FHD
+#EXTINF:-1 tvg-id="TNTNovelas.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/tntnovelas.png" group-title="FILMES E SÉRIES",TNT Novelas FHD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB426Pn5QVw0GGoQVkDzGszk/ts
-#EXTINF:-1 tvg-id="TNT Novelas" tvg-logo="https://www.fontedecanais.bz/logos/canais/tntnovelas.png" group-title="FILMES E SÉRIES",TNT Novelas HD
+#EXTINF:-1 tvg-id="TNTNovelas.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/tntnovelas.png" group-title="FILMES E SÉRIES",TNT Novelas HD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB6QTN46rAXkbIvt_HNOdbuo/ts
-#EXTINF:-1 tvg-id="TNT Novelas" tvg-logo="https://www.fontedecanais.bz/logos/canais/tntnovelas.png" group-title="FILMES E SÉRIES",TNT Novelas SD
+#EXTINF:-1 tvg-id="TNTNovelas.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/tntnovelas.png" group-title="FILMES E SÉRIES",TNT Novelas SD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPBzYjx4ZyBw39s-zNk07zc9A/ts
-#EXTINF:-1 tvg-id="TNT Séries" tvg-logo="https://www.fontedecanais.bz/logos/canais/tntseries.png" group-title="FILMES E SÉRIES",TNT Séries FHD
+#EXTINF:-1 tvg-id="TNTSeries.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/tntseries.png" group-title="FILMES E SÉRIES",TNT Séries FHD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPByO3EvdslkGUpIl3JMooI1Y/ts
-#EXTINF:-1 tvg-id="TNT Séries" tvg-logo="https://www.fontedecanais.bz/logos/canais/tntseries.png" group-title="FILMES E SÉRIES",TNT Séries HD
+#EXTINF:-1 tvg-id="TNTSeries.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/tntseries.png" group-title="FILMES E SÉRIES",TNT Séries HD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB_UN9NzU74DSyAEf9rpKhEA/ts
-#EXTINF:-1 tvg-id="TNT Séries" tvg-logo="https://www.fontedecanais.bz/logos/canais/tntseries.png" group-title="FILMES E SÉRIES",TNT Séries SD
+#EXTINF:-1 tvg-id="TNTSeries.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/tntseries.png" group-title="FILMES E SÉRIES",TNT Séries SD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPBxrjfC9TwmHdJGbid-RLP8M/ts
-#EXTINF:-1 tvg-id="Space" tvg-logo="https://www.fontedecanais.bz/logos/canais/space.png" group-title="FILMES E SÉRIES",Space FHD
+#EXTINF:-1 tvg-id="Space.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/space.png" group-title="FILMES E SÉRIES",Space FHD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB5kGxnkiAnjj6MbM8OM1I-g/ts
-#EXTINF:-1 tvg-id="Space" tvg-logo="https://www.fontedecanais.bz/logos/canais/space.png" group-title="FILMES E SÉRIES",Space HD
+#EXTINF:-1 tvg-id="Space.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/space.png" group-title="FILMES E SÉRIES",Space HD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB_FFeyxN6p3_yQ294n3a180/ts
-#EXTINF:-1 tvg-id="Space" tvg-logo="https://www.fontedecanais.bz/logos/canais/space.png" group-title="FILMES E SÉRIES",Space SD
+#EXTINF:-1 tvg-id="Space.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/space.png" group-title="FILMES E SÉRIES",Space SD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB8rtUJNwv4N4wyTZGzNtJ4U/ts
-#EXTINF:-1 tvg-id="Warner Channel" tvg-logo="https://www.fontedecanais.bz/logos/canais/warnerchannel.png" group-title="FILMES E SÉRIES",Warner Channel FHD
+#EXTINF:-1 tvg-id="WarnerChannel.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/warnerchannel.png" group-title="FILMES E SÉRIES",Warner Channel FHD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPByxr2H5NH08kIfRDsMdgWmc/ts
-#EXTINF:-1 tvg-id="Warner Channel" tvg-logo="https://www.fontedecanais.bz/logos/canais/warnerchannel.png" group-title="FILMES E SÉRIES",Warner Channel HD
+#EXTINF:-1 tvg-id="WarnerChannel.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/warnerchannel.png" group-title="FILMES E SÉRIES",Warner Channel HD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB6y-8MJNpgTfFYefPMGvU1k/ts
-#EXTINF:-1 tvg-id="Warner Channel" tvg-logo="https://www.fontedecanais.bz/logos/canais/warnerchannel.png" group-title="FILMES E SÉRIES",Warner Channel SD
+#EXTINF:-1 tvg-id="WarnerChannel.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/warnerchannel.png" group-title="FILMES E SÉRIES",Warner Channel SD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB5tz5diHqqd_8k6qp-LUWO4/ts
-#EXTINF:-1 tvg-id="Universal TV" tvg-logo="https://www.fontedecanais.bz/logos/canais/universaltv.png" group-title="FILMES E SÉRIES",Universal TV FHD
+#EXTINF:-1 tvg-id="Universal.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/universaltv.png" group-title="FILMES E SÉRIES",Universal TV FHD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB6l8MAtQcb4_ajjyjMgwmAg/ts
-#EXTINF:-1 tvg-id="Universal TV" tvg-logo="https://www.fontedecanais.bz/logos/canais/universaltv.png" group-title="FILMES E SÉRIES",Universal TV HD
+#EXTINF:-1 tvg-id="Universal.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/universaltv.png" group-title="FILMES E SÉRIES",Universal TV HD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPBxPtN85pu1zZlo8rHT6Ksck/ts
-#EXTINF:-1 tvg-id="Universal TV" tvg-logo="https://www.fontedecanais.bz/logos/canais/universaltv.png" group-title="FILMES E SÉRIES",Universal TV SD
+#EXTINF:-1 tvg-id="Universal.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/universaltv.png" group-title="FILMES E SÉRIES",Universal TV SD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB5iN6Dodf00wzgZ_U7nlFsw/ts
-#EXTINF:-1 tvg-id="Universal Premiere" tvg-logo="https://www.fontedecanais.bz/logos/canais/universalpremiere.png" group-title="FILMES E SÉRIES",Universal Premiere FHD
+#EXTINF:-1 tvg-id="UniversalPremiere.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/universalpremiere.png" group-title="FILMES E SÉRIES",Universal Premiere FHD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB0auibOhpfxaVIlA4yF4irA/ts
-#EXTINF:-1 tvg-id="Universal Premiere" tvg-logo="https://www.fontedecanais.bz/logos/canais/universalpremiere.png" group-title="FILMES E SÉRIES",Universal Premiere HD
+#EXTINF:-1 tvg-id="UniversalPremiere.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/universalpremiere.png" group-title="FILMES E SÉRIES",Universal Premiere HD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPBzbp8C4TRE01ErOPt-FmJ9c/ts
-#EXTINF:-1 tvg-id="Universal Premiere" tvg-logo="https://www.fontedecanais.bz/logos/canais/universalpremiere.png" group-title="FILMES E SÉRIES",Universal Premiere SD
+#EXTINF:-1 tvg-id="UniversalPremiere.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/universalpremiere.png" group-title="FILMES E SÉRIES",Universal Premiere SD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPBzbp8C4TRE01ErOPt-FmJ9c/ts
-#EXTINF:-1 tvg-id="Universal Reality" tvg-logo="https://www.fontedecanais.bz/logos/canais/universalreality.png" group-title="FILMES E SÉRIES",Universal Reality FHD
+#EXTINF:-1 tvg-id="UniversalReality.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/universalreality.png" group-title="FILMES E SÉRIES",Universal Reality FHD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPBxuXBUcVmkai6i9T8je-ew4/ts
 #EXTINF:-1 tvg-id="Universal Reality" tvg-logo="https://www.fontedecanais.bz/logos/canais/universalreality.png" group-title="FILMES E SÉRIES",Universal Reality HD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPBwjlkAHudGjwWbLWAcIVJwU/ts
 #EXTINF:-1 tvg-id="Universal Reality" tvg-logo="https://www.fontedecanais.bz/logos/canais/universalreality.png" group-title="FILMES E SÉRIES",Universal Reality SD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPBwjlkAHudGjwWbLWAcIVJwU/ts
+#EXTINF:-1 tvg-id="AXN.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/axn.png" group-title="FILMES E SÉRIES",AXN FHD
+http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPBx-wpbfrh9iB84w3AqhTGwY/ts
+#EXTINF:-1 tvg-id="AXN.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/axn.png" group-title="FILMES E SÉRIES",AXN HD
+http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB0lSIZOAdKsf-6mAsclU_HI/ts
+#EXTINF:-1 tvg-id="AXN.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/axn.png" group-title="FILMES E SÉRIES",AXN SD
+http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB48_0iNzHZI-Ant5IMqgvqw/ts
+#EXTINF:-1 tvg-id="Megapix.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/megapix.png" group-title="FILMES E SÉRIES",Megapix FHD
+http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB9QI3-nrfzDnwxLs7qGbvNA/ts
+#EXTINF:-1 tvg-id="Megapix.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/megapix.png" group-title="FILMES E SÉRIES",Megapix HD
+http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB9Qifo6gLV6XyUZzY4P3C00/ts
+#EXTINF:-1 tvg-id="Megapix.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/megapix.png" group-title="FILMES E SÉRIES",Megapix SD
+http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPBylKETIYa35PA-FRRMNZ13A/ts
+#EXTINF:-1 tvg-id="StudioUniversal.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/studiouniversal.png" group-title="FILMES E SÉRIES",Studio Universal FHD
+http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB8eX4kDSFasvILlqqwdabl8/ts
+#EXTINF:-1 tvg-id="StudioUniversal.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/studiouniversal.png" group-title="FILMES E SÉRIES",Studio Universal HD
+http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPBy1M59GOY4ZS2N_6c80k1lQ/ts
+#EXTINF:-1 tvg-id="StudioUniversal.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/studiouniversal.png" group-title="FILMES E SÉRIES",Studio Universal SD
+http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPByggjAd2olyRLxmTV53ig6g/ts
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/cinemax.png" group-title="FILMES E SÉRIES",Cinemax FHD
+http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB8dfTwTThCSaIUx6COBwaqE/ts
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/cinemax.png" group-title="FILMES E SÉRIES",Cinemax HD
+http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB3ij7RNUq51qFHkjHU3OCGk/ts
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/cinemax.png" group-title="FILMES E SÉRIES",Cinemax SD
+http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB6gegmr4NleshMEpFivAm60/ts
+#EXTINF:-1 tvg-id="CanalBrasil.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/canalbrasil.png" group-title="FILMES E SÉRIES",Canal Brasil FHD
+http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB56IK1Fp_pWT6bK9sEzXt7c/ts
+#EXTINF:-1 tvg-id="CanalBrasil.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/canalbrasil.png" group-title="FILMES E SÉRIES",Canal Brasil HD
+http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB7MA_qUTLIy5r6JgbNhnW5k/ts
+#EXTINF:-1 tvg-id="CanalBrasil.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/canalbrasil.png" group-title="FILMES E SÉRIES",Canal Brasil SD
+http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB_X6f1TiL3aCUwqBHlD_qig/ts
+#EXTINF:-1 tvg-id="SonyChannel.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/sonychannel.png" group-title="FILMES E SÉRIES",Sony Channel FHD
+http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB6GjxYW6OtSmLSG0gfHSbLU/ts
+#EXTINF:-1 tvg-id="SonyChannel.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/sonychannel.png" group-title="FILMES E SÉRIES",Sony Channel HD
+http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPBx6YbqjtVQk1kPJp3c1FQJo/ts
+#EXTINF:-1 tvg-id="SonyChannel.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/sonychannel.png" group-title="FILMES E SÉRIES",Sony Channel SD
+http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB45s7JTgoKm9p_7stTC6uhI/ts
+#EXTINF:-1 tvg-id="USA.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/usa.png" group-title="FILMES E SÉRIES",USA FHD
+http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPBwxaeK2lrBvyLnfeKX4HI2w/ts
+#EXTINF:-1 tvg-id="USA.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/usa.png" group-title="FILMES E SÉRIES",USA HD
+http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB6OD6EcE4MMoe4XoiMU4dYU/ts
+#EXTINF:-1 tvg-id="USA.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/usa.png" group-title="FILMES E SÉRIES",USA SD
+http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB4jEeRppvqT8AcUdJHOsOF4/ts
+#EXTINF:-1 tvg-id="AandE.br" tvg-logo="https://i.postimg.cc/1XZRH7ZY/aande.png" group-title="FILMES E SÉRIES",A&E FHD
+http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB3k29_l7lizt_olEoQRlnLY/ts
+#EXTINF:-1 tvg-id="AandE.br" tvg-logo="https://i.postimg.cc/1XZRH7ZY/aande.png" group-title="FILMES E SÉRIES",A&E HD
+http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB5s2ToVqIceygHm6dNxrRgM/ts
+#EXTINF:-1 tvg-id="AandE.br" tvg-logo="https://i.postimg.cc/1XZRH7ZY/aande.png" group-title="FILMES E SÉRIES",A&E SD
+http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB5uG4MfbIRmuuRMbNy_PvgE/ts
+#EXTINF:-1 tvg-id="AMC.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/amc.png" group-title="FILMES E SÉRIES",AMC FHD
+http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPBygYHKyPcx1oDx1ga0aq_yI/ts
+#EXTINF:-1 tvg-id="AMC.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/amc.png" group-title="FILMES E SÉRIES",AMC HD
+http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB53slfPhDNo2wOIyLHJ9sPU/ts
+#EXTINF:-1 tvg-id="AMC.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/amc.png" group-title="FILMES E SÉRIES",AMC SD
+http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB-LjRfaKvk9Yhtjtnno3MV8/ts
+#EXTINF:-1 tvg-id="AMCSeries.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/amcseries.png" group-title="FILMES E SÉRIES",AMC Séries FHD
+http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB8Nh09qElXCQqUQWC1riEAk/ts
+#EXTINF:-1 tvg-id="AMCSeries.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/amcseries.png" group-title="FILMES E SÉRIES",AMC Séries HD
+http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPBx69wV5kaoMtnpUgcNqkScs/ts
+#EXTINF:-1 tvg-id="AMCSeries.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/amcseries.png" group-title="FILMES E SÉRIES",AMC Séries SD
+http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB92a6kwPoOJKMcONBEbmXmQ/ts
+#EXTINF:-1 tvg-id="TCM.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/tcm.png" group-title="FILMES E SÉRIES",TCM FHD
+http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB8gpU0VWN2stHw-x4ZfnL38/ts
+#EXTINF:-1 tvg-id="TCM.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/tcm.png" group-title="FILMES E SÉRIES",TCM HD
+http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB-MdoA-UYksDZt7Oi-d8Duk/ts
+#EXTINF:-1 tvg-id="TCM.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/tcm.png" group-title="FILMES E SÉRIES",TCM SD
+http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPBxrfWc0SVvovdjY2_0O65ME/ts
