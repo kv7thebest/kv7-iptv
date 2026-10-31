@@ -139,6 +139,8 @@ http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB6KmFd8KX2a-MY-TZPxU5tI/ts
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB5tfhUcHuieIv8T8_EgXbb4/ts
 #EXTINF:-1 tvg-id="ESPN6.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/espn6.png" group-title="ESPN",ESPN 6 HD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB5gc9e2iOfl6HJAYluNhXSE/ts
+#EXTINF:-1 tvg-id="ESPN6.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/espn6.png" group-title="ESPN",ESPN 6 SD
+http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB3VJRCwM0XgvUgew1kNC1_Q/ts
 #EXTINF:-1 tvg-id="PremiereClubes.br" tvg-logo="https://i.postimg.cc/htvgKJRH/premiere-logo.png" group-title="PREMIERE",Premiere 1 FHD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPBxZzBKjL1UFwlrePcBr6dK4/ts
 #EXTINF:-1 tvg-id="PremiereClubes.br" tvg-logo="https://i.postimg.cc/htvgKJRH/premiere-logo.png" group-title="PREMIERE",Premiere 1 HD
@@ -201,8 +203,6 @@ http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB0QSVnSQslloZH1bzWex8h8/ts
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB11bq4quVpGHnKzuJAnq9wQ/ts
 #EXTINF:-1 tvg-id="Prime Video 10" tvg-logo="https://www.fontedecanais.bz/logos/canais/primevideo.png" group-title="PRIME VIDEO",Prime Video 10
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB9HtscaQaBDJWwWLvqE0nCM/ts
-#EXTINF:-1 tvg-id="ESPN6.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/espn6.png" group-title="ESPN",ESPN 6 SD
-http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB3VJRCwM0XgvUgew1kNC1_Q/ts
 #EXTINF:-1 tvg-id="Multishow.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/multishow.png" group-title="VARIEDADES",Multishow FHD
 http://aznox.fun:80/play/FxxiD0Ce3T1d7XlhYoVPB_4T9567LGZRe7oEY72sS4I/ts
 #EXTINF:-1 tvg-id="Multishow.br" tvg-logo="https://www.fontedecanais.bz/logos/canais/multishow.png" group-title="VARIEDADES",Multishow HD
